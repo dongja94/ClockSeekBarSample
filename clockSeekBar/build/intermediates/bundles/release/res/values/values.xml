@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Android/Library/android-education-project/ClockSeekBarSample1/clockSeekBar/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="disabled_gray">#FF999999</color>
+    <color name="error_clock">#FFE40000</color>
+    <color name="orange">#FFE46715</color>
+    <color name="seekbar_color">#FF9FDC00</color>
+    <declare-styleable name="CircularClockSeekBar"><attr format="reference" name="hand_hour"/><attr format="reference" name="hand_minute"/></declare-styleable>
+    <declare-styleable name="RobotoTextView"><attr format="enum" name="fontType"><enum name="light" value="0"/><enum name="medium" value="1"/><enum name="regular" value="2"/><enum name="bold" value="3"/></attr></declare-styleable>
+    <!-- From: file:/C:/Android/Library/android-education-project/ClockSeekBarSample1/clockSeekBar/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="seekbar_width">2dp</dimen>
+    <!-- From: file:/C:/Android/Library/android-education-project/ClockSeekBarSample1/clockSeekBar/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Android-ClockSeekbar</string>
+    <string name="flights_app_short_hrs_cbd">hrs</string>
+    <!-- From: file:/C:/Android/Library/android-education-project/ClockSeekBarSample1/clockSeekBar/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

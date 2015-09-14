@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Android/Library/android-education-project/ClockSeekBarSample1/clockSeekBar/build/intermediates/bundles/debug/res/values-en/values-en.xml -->
+    <eat-comment/>
+    <string name="flights_app_short_hrs_cbd">hrs</string>
+</resources>
